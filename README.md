@@ -21,7 +21,8 @@ Projeto feito para realizar testes automatizados de uma aplicação que simula u
 * menssagem de erro de email ja existente
 * mensagems de erro ao inserir dados de cadastro inválidos
 
-![cadastro](../cypress/videos/cadastro.com-gif-maker-_3_.gif)
+![cadastro com-gif-maker-_3_](https://user-images.githubusercontent.com/108771074/192676967-9e9d24bc-5eae-47d9-9d69-da3142dce7f9.gif)
+
 
 ### Cenário - Login
 
@@ -29,13 +30,15 @@ Projeto feito para realizar testes automatizados de uma aplicação que simula u
 * mensagem de erro ao inserir email inválido
 * mensagem de erro ao inserir password inválido
 
-![Login](../cypress/videos/login.com-gif-maker-_4_.gif)
+![login com-gif-maker-_4_](https://user-images.githubusercontent.com/108771074/192677032-6f5403ab-b7d8-41e7-9d6f-566ed0764979.gif)
+
 
 ### Cenário - Compra
 
 * realizando compra
 
-![Compra](../cypress/videos/compra.com-gif-maker-_2_.gif)
+![compra com-gif-maker-_2_](https://user-images.githubusercontent.com/108771074/192677103-364f1ffe-f43c-4896-85b8-d28e101c6c9e.gif)
+
 
 
 ## 🤝 Contato
