@@ -18,7 +18,7 @@ Projeto feito para realizar testes automatizados de uma aplicação que simula u
 ### Cenário - Cadastro 
 
 * registrando um usuário
-* menssagem de erro de email ja existente
+* mensagem de erro de email ja existente
 * mensagems de erro ao inserir dados de cadastro inválidos
 
 ![cadastro com-gif-maker-_3_](https://user-images.githubusercontent.com/108771074/192676967-9e9d24bc-5eae-47d9-9d69-da3142dce7f9.gif)
